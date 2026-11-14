@@ -1,3 +1,5 @@
+![Terminal Header](header.svg)
+
 ```bash
 connor@github:~$ whoami
 ```
