@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**DrDavidReed/DrDavidReed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+connor@github:~$ whoami
+```
 
-Here are some ideas to get you started:
+### Connor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in Linux, self-hosting, computers and gaming.
+
+I enjoy experimenting with software, running my own services and working on small projects in my spare time.
+
+```bash
+connor@github:~$ ls projects/
+```
+
+- [Personal Website](https://github.com/DrDavidReed/drdavidreed-website) — An interactive, terminal-inspired homepage.
+- [Horror Movie Roulette](https://github.com/DrDavidReed/horror-movie-roulette) — A simple way to discover something to watch.
+
+```bash
+connor@github:~$ _
+```
+    
