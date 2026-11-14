@@ -1,13 +1,5 @@
 ![Terminal Header](Header.svg)
 
-```bash
-connor@github:~$ whoami
-```
-
-# Connor
-
-Interested in Linux, self-hosting, computers and gaming.
-
 I enjoy experimenting with software, running my own services and building small projects in my spare time.
 
 ---
